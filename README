@@ -1,0 +1,5 @@
+Copyright (C) 2013 Rosario Raulin
+
+A simple simulator for turing machines written in Common Lisp
+
+For license information, see the LICENSE file.
